@@ -4,4 +4,4 @@
 ###### once you finished listing your choices press enter to begin the randomized chioce porcess.
 
 ### app url:
-  https://randomchoice.hossam779.repl.co/
+  #### click [here](https://hossamynwa.github.io/RandomChoice/)
